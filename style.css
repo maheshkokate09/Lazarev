@@ -150,6 +150,7 @@ nav h1{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    position: relative;
 }
 #page-1 h1{
     text-transform: uppercase;
